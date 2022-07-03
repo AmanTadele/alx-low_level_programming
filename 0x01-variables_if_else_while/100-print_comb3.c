@@ -1,4 +1,4 @@
-i#include <stdio.h>
+#include <stdio.h>
 /**
  * main - print numbers from 00 to 99.
 (*
@@ -34,3 +34,4 @@ int main(void)
 	}
 	return (0);
 }
+
